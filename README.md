@@ -1,18 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=shodrig0%20🚀&fontColor=ffffff&fontSize=50&fontAlignY=40" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Welcome!%20&fontColor=ffffff&fontSize=50&fontAlignY=40" alt="header" />
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Rodrigo</h1>
-<h3 align="center">💻 Web Developer student</h3>
-
----
+<h1 align="center">Hello there, I'm Rodrigo</h1>
 
 ### 🧠 About Me
 
 - 🔭 I’m currently working on: **My own and university projects**
-- 🌱 Currently learning: **Nest.js, Intermediate TypeScript, MongoDB and Prisma**
-- 💬 Ask me about: **Laravel, React, TypeScript, XAMPP, Linux (Ubuntu and openSuse distros)**
+- 🌱 Currently learning: **Express.js, Intermediate TypeScript, MongoDB and Prisma**
 ---
 
 ### 🛠️ Tech Stack
@@ -30,7 +26,6 @@
 
 #### 🖥 Backend / Runtime
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 #### 🗄️ Databases
@@ -43,9 +38,6 @@
 
 #### ⚙️ Tools & Environment
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![XAMPP](https://img.shields.io/badge/xampp-FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
