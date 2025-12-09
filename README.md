@@ -3,44 +3,44 @@
 </p>
 
 
-<h1 align="center">Hello there, I'm Rodrigo</h1>
+<h1 align="center">Hello there, I am Rodrigo</h1>
 
-### 🧠 About Me
+## About Me
 
 - 🔭 I’m currently working on: **My own projects**
 - 🌱 Currently learning: **Express.js, Intermediate TypeScript, MongoDB and Prisma**
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
-#### 🧑‍💻 Languages
+### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### 🌐 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-#### 🖥 Backend / Runtime
+### Backend / Runtime
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-#### 🗄️ Databases
+### Databases
 ![PostgreSQL]([https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white))
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### 🧰 ORM / Database Tools
+### ORM / Database Tools
 ![Prisma](https://img.shields.io/badge/prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ---
 
-### 🌟 Featured Projects
+## Featured Projects
 
 - [Overwatch Wiki in collaboration with partners](https://overwatch-api-five.vercel.app/)
 - [Salix Consultora](https://salixconsultora.com/)
 - [Bugged Night: Multiplayer Game - Final University Project](https://buggednight.up.railway.app/)
 ---
 
-### ✉️ Connect with Me
+## ✉️ Connect with Me
 
 - 📧 Email: vrodrigo97@proton.me
 - 💼 LinkedIn: _work in progress_
