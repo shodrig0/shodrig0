@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="740"
+     height="338"
+     viewBox="0 0 740 338"
+     xml:space="preserve">
+
+  <title>Rodrigo Alberto Villablanca — System Profile</title>
+  <desc>Terminal-style software developer profile.</desc>
+
+  <style>
+    .mono {
+      font-family: 'JetBrains Mono', 'JetBrainsMono NFM',
+                   Menlo, Consolas, 'DejaVu Sans Mono',
+                   monospace;
+    }
+
+    .prompt {
+      fill: #3fb950;
+    }
+
+    .command {
+      fill: #c9d1d9;
+    }
+
+    .name {
+      fill: #f0f6fc;
+      font-size: 16px;
+      font-weight: 700;
+    }
+
+    .role {
+      fill: #58a6ff;
+      font-size: 14px;
+    }
+
+    .value {
+      fill: #8b949e;
+      font-size: 14px;
+    }
+
+    .title {
+      fill: #8b949e;
+      font-size: 12px;
+    }
+  </style>
+
+  <defs>
+    <filter id="shadow"
+            x="-25%"
+            y="-25%"
+            width="150%"
+            height="160%">
+
+      <feDropShadow
+        in="SourceGraphic"
+        dx="0"
+        dy="5"
+        stdDeviation="6"
+        flood-opacity="0.19"
+        result="s1"/>
+
+      <feDropShadow
+        in="s1"
+        dx="0"
+        dy="1"
+        stdDeviation="1.5"
+        flood-opacity="0.28"/>
+
+    </filter>
+  </defs>
+
+
+  <rect
+    x="24"
+    y="24"
+    width="692"
+    height="290"
+    rx="10"
+    fill="#0d1117"
+    filter="url(#shadow)"/>
+
+  <circle
+    cx="44"
+    cy="40"
+    r="6"
+    fill="#ff5f57"/>
+
+  <circle
+    cx="64"
+    cy="40"
+    r="6"
+    fill="#febc2e"/>
+
+  <circle
+    cx="84"
+    cy="40"
+    r="6"
+    fill="#28c840"/>
+
+
+  <text
+    x="370"
+    y="40"
+    text-anchor="middle"
+    dominant-baseline="central"
+    class="mono title">
+
+    shodrig0@github: ~ — zsh
+
+  </text>
+
+  <!-- whoami -->
+
+  <text
+    x="34"
+    y="79.54"
+    class="mono"
+    font-size="14">
+
+    <tspan class="prompt">shodrig0@github:~$</tspan>
+    <tspan class="command"> whoami</tspan>
+
+  </text>
+
+
+  <text
+    x="34"
+    y="113.54"
+    class="mono name">
+
+    Rodrigo Alberto Villablanca
+
+  </text>
+
+
+  <text
+    x="34"
+    y="135.54"
+    class="mono role">
+
+    Software Developer
+
+  </text>
+
+
+  <text
+    x="34"
+    y="169.54"
+    class="mono"
+    font-size="14">
+
+    <tspan class="prompt">shodrig0@github:~$</tspan>
+    <tspan class="command"> cat focus.txt</tspan>
+
+  </text>
+
+
+  <text
+    x="34"
+    y="203.54"
+    class="mono value">
+
+    Backend · Web · Software
+
+  </text>
+
+
+  <text
+    x="34"
+    y="237.54"
+    class="mono"
+    font-size="14">
+
+    <tspan class="prompt">shodrig0@github:~$</tspan>
+    <tspan class="command"> cat learning.txt</tspan>
+
+  </text>
+
+
+  <text
+    x="34"
+    y="271.54"
+    class="mono value">
+
+    Python · pandas · Android
+
+  </text>
+
+
+  <text
+    x="34"
+    y="305.54"
+    class="mono"
+    font-size="14">
+
+    <tspan class="prompt">shodrig0@github:~$</tspan>
+
+  </text>
+
+</svg>
